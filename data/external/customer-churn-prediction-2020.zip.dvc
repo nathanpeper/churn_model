@@ -1,0 +1,4 @@
+outs:
+- md5: 9bf66b59796fd73f545861343768b3a2
+  size: 157198
+  path: customer-churn-prediction-2020.zip
